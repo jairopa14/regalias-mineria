@@ -10,7 +10,6 @@ Autor: Jairo Pallares
 
 Agencia Nacional de Minería, "ANM Volumen de Explotación de Minerales Asociados a Pagos de Regalías", en Datos Abiertos Colombia: https://www.datos.gov.co/d/r85m-vv6c
 
-Descargado el 7 de noviembre de 2026 (79.151 registros, 2012 a 2026). Los registros de 2026 se dejaron aparte como datos nuevos.
 
 ## Resultados en el conjunto de prueba
 
