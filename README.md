@@ -1,10 +1,10 @@
 # Estimador de regalías mineras en Colombia
 
-Proyecto integrador de la Maestría en Ciencia de Datos (UPB), hecho con la metodología CRISP-DM.
+Proyecto de la Maestría en Ciencia de Datos, hecho con la metodología CRISP-DM.
 
 El modelo estima cuánto se paga de regalías (en pesos) según el mineral, el volumen explotado, el departamento, el año, el trimestre y si es un gran proyecto o no. La idea es usarlo para detectar pagos que no cuadran con el volumen declarado.
 
-Autor: Jairo
+Autor: Jairo Pallares
 
 ## Datos
 
@@ -38,4 +38,4 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-App publicada: (pegar aquí la URL de Streamlit)
+App publicada: https://regalias-mineria.streamlit.app
